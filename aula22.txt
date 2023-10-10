@@ -1,0 +1,8 @@
+Atividade de avaliação POO2
+Agencia bancária
+
+1 - Encapsular os atributos da classe conta 
+2 - criar mais dois objetos (clientes)
+(robson vaamonde e sirlene aparecida)
+3 - criar um novo metodo para transferencia de valores entre contas correntes
+e poupança

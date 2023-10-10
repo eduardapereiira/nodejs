@@ -1,0 +1,19 @@
+Pilares: 
+- Abstração
+- herança
+- polimorfismo
+- Encapsulamento
+
+// Abstração
+calsse modelo - objetos
+
+//herança 
+Extende(reutiliza) atributos e métodos da classe príncipal
+
+// Polimorfismo 
+Modifica o comportamento d eum metodo existente na classe príncipal
+
+//Encapsulamento 
+segurança (protege o acesso as variaveis)
+-- atributos (variaveis) -> privados
+-- metodos especificos (get e set) sao usados para acessar as variaveis
